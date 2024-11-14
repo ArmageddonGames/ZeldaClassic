@@ -8,6 +8,14 @@ The homepage contains information about the latest release, links to the latest 
 
 This repository contains the Zelda Classic source code, for use by the Zelda Classic developers and advanced users wanting to port ZC to new platforms. You do not need to download or compile the source if you want to play Zelda Classic or make quests on Windows, OS X, or (Debian) Linux.
 
+### Screenshots
+
+<img src="screenshots/demo.png"> <img src="screenshots/lost1.png"> <img src="screenshots/lost2.png"> 
+<img src="screenshots/saffith.png"> <img src="screenshots/di.png"> <img src="screenshots/zoria.png"> 
+<img src="screenshots/tort.png"> <img src="screenshots/heavens.png">
+
+<img src="screenshots/editor1.png" width="400" height="300"> <img src="screenshots/editor2.png" width="400" height="300">
+
 ## Building the Source
 
 Because of Zelda Classic's extended development history and dependency on legacy libraries, the build process is somewhat involved. The instructions here are not comprehensive, but are intended to help you get started.
@@ -16,8 +24,8 @@ Because of Zelda Classic's extended development history and dependency on legacy
 
 **1))** Zelda Classic uses CMake to build the source. Before getting started, you will need to install CMake (version 3.5 or later.) The scripts have been tested on the following operating systems and toolchains:
 
-- **Windwos XP with MSVC 2008**
-- **Windows 10 with MSVC 2016**
+- **Windows XP with MSVC 2008**
+- **Windows 10 with MSVC 2015**
 - **Ubuntu 16.04 with g++ 5.4**
 
 You may need to tweak the configuration settings for other platforms.
