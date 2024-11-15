@@ -16,6 +16,26 @@ This repository contains the Zelda Classic source code, for use by the Zelda Cla
 
 <img src="screenshots/editor1.png" width="400" height="300"> <img src="screenshots/editor2.png" width="400" height="300">
 
+## Special Thanks
+
+A special thanks to all the past developers, contributors, testers, and contributors over the long and rich history of Zelda Classic that began as a simple editable LOZ clone back in 1999. Many of whom have moved on to other endevours or are sadly no longer with us. Thank You.
+
+## About this Repository
+
+This repository was resurrected and reconstructed after the theft of the original Zelda Classic repository.<br/>
+Let this epitaph stand as a reminder for all of the scourge of the adherants to the church of moral relativism and their false idols and doctrines.
+
+- *“If ye love wealth better than liberty, the tranquility of servitude better than the animating contest of freedom, go home from us in peace. We ask not your counsels or arms. Crouch down and lick the hands which feed you. May your chains set lightly upon you, and may posterity forget that ye were our countrymen.”* ― Samuel Adams
+
+- *Every way of a man is right in his own eyes; but the LORD weigheth the hearts.* ― (Proverbs 21:2)
+- *The getting of treasures by a lying tongue is a vapour driven to and fro; they seek death.* ― (Proverbs 21:6)
+- *The soul of the wicked desireth evil; his neighbour findeth no favour in his eyes. ... When the scorner is punished, the thoughtless is made wise; and when the wise is instructed, he receiveth knowledge.* ― (Proverbs 21:10)
+- *To do justly is joy to the righteous, but ruin to the workers of iniquity.* ― (Proverbs 21:15)
+- *He that followeth after righteousness and mercy findeth life, prosperity, and honour.* ― (Proverbs 21:21)
+- *A proud and haughty man, scorner is his name, even he that dealeth in overbearing pride.* ― (Proverbs 21:24)
+- *There is that coveteth greedily all the day long; but the righteous giveth and spareth not.* ― (Proverbs 21:26)
+- *A false witness shall perish; but the man that obeyeth shall speak unchallenged.* ― (Proverbs 21:28)
+
 ## Building the Source
 
 Because of Zelda Classic's extended development history and dependency on legacy libraries, the build process is somewhat involved. The instructions here are not comprehensive, but are intended to help you get started.
