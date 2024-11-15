@@ -18,7 +18,7 @@ This repository contains the Zelda Classic source code, for use by the Zelda Cla
 
 ## Special Thanks
 
-A special thanks to all the past developers, contributors, testers, and contributors over the long and rich history of Zelda Classic that began as a simple editable LOZ clone back in 1999. Many of whom have moved on to other endevours or are sadly no longer with us. Thank You.
+A special thanks to all the past developers, contributors, testers, and content creators over the long and rich history of Zelda Classic that began as a simple editable LOZ clone back in 1999. Many of whom have moved on to other endevours or are sadly no longer with us. Thank You.
 
 ## About this Repository
 
